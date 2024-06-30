@@ -1,0 +1,9 @@
+flake8==7.1.0
+joblib==1.4.2
+mccabe==0.7.0
+numpy==2.0.0
+pycodestyle==2.12.0
+pyflakes==3.2.0
+scikit-learn==1.5.0
+scipy==1.13.1
+threadpoolctl==3.5.0
